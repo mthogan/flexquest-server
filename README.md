@@ -1,2 +1,1 @@
-# flexquest-server
-FlexQuest Server Code
+# FlexQuest-Server
